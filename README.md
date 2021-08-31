@@ -10,4 +10,3 @@ There are multiple ways that you can get started running this project.
 * 'npm install'
 * 'npm start'
 
-Alternatively, [download the Docker image](https://hub.docker.com/repository/docker/anaisurlichs/react-article-display) and run the app via docker
